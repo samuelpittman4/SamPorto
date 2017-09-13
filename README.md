@@ -6,3 +6,4 @@ When pushing to github, make sure your repository name is [you-username].github.
 
 [Watch this video if you need help pushing to github](https://www.youtube.com/watch?v=EZ3NfOSHrPg&t=6s)# portfolio
 # samportfolio
+# jam
